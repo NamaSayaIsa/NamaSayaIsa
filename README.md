@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamaSayaIsa
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... digital things
+- 👀 I’m interested in doing hobbies
+- 🌱 I’m into Artificial Intelligence
 - © NamaSayaIsa, All rights reserved
 
 <!---
